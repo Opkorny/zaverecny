@@ -1,0 +1,86 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-image: url("../img/vybuch.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+header {
+    width: 100%;
+    background-color: darkred;
+    font-size: 400%;
+    color: white;
+    padding: 20px;
+    font-weight: 400;
+}
+
+main {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(175, 175, 175);
+    opacity: 0.9;    
+}
+
+#zalozky {
+    font-size: 1.5em;
+    text-align: center;
+    background-color: rgb(50,50,50);
+    background-image: none;
+    color: white;
+}
+
+.main {
+    font-size: 1.25em;
+    padding: 5%;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    background-color: darkred;
+    color: white;
+    padding: 20px;
+}
+
+h4, h5{
+    font-weight: 600;
+}
+
+i {
+    font-size: 0.8em;
+}
+
+figure{
+    text-align: center;
+}
+
+#image {
+    width: 60%;
+    height: 60%;
+}
+
+svg {
+    display: block;
+    margin: auto;
+}
+
+#komentare {
+    padding: 5%
+}
+
+#pridat{
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+
+.li{
+    padding: 1%;
+}
+
+
+
